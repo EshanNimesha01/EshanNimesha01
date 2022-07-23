@@ -81,6 +81,6 @@ Designing
 
 
 
-![Eshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefoxlk&count_private=true&theme=dark)
+![Eshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=EshanNimesha01&count_private=true&theme=dark)
 
 
